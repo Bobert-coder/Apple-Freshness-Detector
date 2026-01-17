@@ -11,7 +11,7 @@ rotten from not rotten apples
 - cv2
 
 ## Installation
-1.`python -m venv venv`
+1. `python -m venv venv`
 2. Activate virtual environment `venv/scripts/activate`
 3. install the dependencies `pip install -r requirements.txt`
 
